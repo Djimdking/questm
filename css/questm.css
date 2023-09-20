@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    box-sizing: border-box;;
+   }
+   .first-section{
+    text-align: center;
+    margin-bottom: 20px;
+   }
+   .hhq{
+    margin-top: 50px;
+    margin-bottom: 20px;
+   }
+   .second-sectionp{
+    padding-top: 10px;
+    padding-left: 150px;
+    padding-right: 150px;
+   }
+   .phh{
+    text-align: center;
+    background-color: rgb(140 179 228);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+   }
+   .seconds-padd{
+    padding:10px
+   }
+   .third-sectiont{
+    padding-top: 10px;
+    padding-left: 150px;
+    padding-right: 150px;
+   }
+   .listprob-surg{
+    background-color: rgb(140 179 228);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+   }
+   .hgt{
+    height: 100px;
+   }
+   #malt{
+    margin-left: 150px;
+    margin-bottom: 100px;
+   }
